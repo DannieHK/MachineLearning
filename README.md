@@ -1,1 +1,3 @@
-Cup recognizer with yolov9 using colob
+- Cup recognizer with yolov9 using colob
+
+- Letter recognizer
