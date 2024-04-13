@@ -5,3 +5,5 @@ ML using Colab
 - Letter recognizer
 
 - Llama chat. (Like chatGPT)
+
+- GPT2 trying to predict text from your input
